@@ -53,7 +53,7 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 ---
 
 ### **Tableau Dashboard**
-![Tableau Dashboard](tableau/tableau_dashboard.png)
+![Tableau Dashboard](tableau/tableau_Dashboard.png.png)
 
 ---
 
