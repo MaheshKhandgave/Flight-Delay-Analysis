@@ -138,5 +138,5 @@ Flight-Delay-Analysis/
 ---
 
 # ⚠️ Data Privacy & Disclaimer
-This project is created using a training dataset provided by ExcelR during classroom sessions.
+This project is created using a training dataset provided by ExcelR during project sessions.
 The dataset is used only for educational and practice purposes.
