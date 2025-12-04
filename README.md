@@ -43,7 +43,7 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 # 📊 Dashboard Previews
 
 ### **Excel Dashboard**
-![Excel Dashboard](excel/dashboard_image.png)
+![Excel Dashboard](excel/dashboard_image.png.png)
 
 ---
 
