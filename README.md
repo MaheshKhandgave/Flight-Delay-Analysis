@@ -48,7 +48,7 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 ---
 
 ### **Power BI Dashboard**
-![Power BI Dashboard](powerbi/powerbi_dashboard.png)
+![Power BI Dashboard](powerbi./powerbi_dashboard.png.png)
 
 ---
 
