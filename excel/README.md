@@ -10,4 +10,4 @@ Open the `Dashboard` sheet to explore KPIs and slicers.
 [Click Here to Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1gv3cxBtGfS7SZqtGyHz3Hj-iOsegQorO/edit?usp=drive_link&ouid=118077615037092360815&rtpof=true&sd=true)
 
 ### screenshoots
-![ecxel dashboard](excel/dashboard_image.png.png)
+![ecxel dashboard](dashboard_image.png.png)
