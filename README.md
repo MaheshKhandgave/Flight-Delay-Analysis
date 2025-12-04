@@ -28,6 +28,10 @@ The dashboard is designed for quick decision-making by operations teams.
 
 *Tools used:* Excel (Pivot, Power Query), Power BI, Tableau, SQL Google Drive (for large files)
 
+## 📊 Dashboard Preview
+![Excel Dashboard](excel/dashboard_image.png)
+
+
 ## 🚀 Key Features / Highlights
 - Interactive Excel dashboard with slicers for Airline, Date range and Origin/Destination.  
 - Power BI dashboard with visual breakdowns: airline performance, delays by weekday, top delayed routes.  
