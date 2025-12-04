@@ -78,7 +78,7 @@ Flight-Delay-Analysis/ │ ├── excel/ │   ├── flight_delay_excel.x
 
 # 🧠 Key Insights 
 - Average delay: **22 minutes**  
-- Worst-performing airline: **Airline X**  
+- Worst-performing airline: **Airline EV**  
 - Peak delay day: **Saturday**  
 - Route distance has a moderate impact on delay patterns  
 
