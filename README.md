@@ -37,6 +37,9 @@ The dashboard is designed for quick decision-making by operations teams.
 ## Tableau preview
 ![tableau dashboard](tableau/tableau_Dashboard.png.png)
 
+## sql preview
+![sql query]()
+
 
 
 ## 🚀 Key Features / Highlights
