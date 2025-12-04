@@ -5,3 +5,6 @@ This folder contains:
 - **dashboard_image.png** – Preview of the Excel Dashboard  
 
 Open the `Dashboard` sheet to explore KPIs and slicers.
+
+## 📊 Dashboard Preview(excel)
+![Excel Dashboard](excel/dashboard_image.png.png)
