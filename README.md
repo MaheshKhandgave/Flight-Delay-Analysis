@@ -32,7 +32,7 @@ The dashboard is designed for quick decision-making by operations teams.
 ![Excel Dashboard](excel/dashboard_image.png.png)
 
 ### PowerBI Preview
-![powerbi dashboard](powerbi./_dashboard.png.png)
+![powerbi dashboard](powerbi./powerbi_dashboard.png.png)
 
 
 
