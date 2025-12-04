@@ -18,6 +18,12 @@
 ### 🔹 Project PPT  
 [Click Here to Download PPT](https://docs.google.com/presentation/d/1XBHAQkOzVmoDkKTIt629XzOvn3gWPuW1/edit?usp=drive_link&ouid=118077615037092360815&rtpof=true&sd=true)
 
+# Flight Delay Analysis – End-to-End Data Analytics Project
+
+## 📌 Project Description
+This is an end-to-end airline Flight Delay Analysis project using Excel, SQL, Power BI, and Tableau. 
+The project includes data cleaning, KPI creation, dashboard building, and insights extraction to improve flight operations.
+
 # 🔎 Project Overview
 *Objective:* Analyze flight delays (distribution, airline-wise, weekday trends, cancellation & delay reasons) and provide interactive dashboards and reproducible SQL queries for KPI extraction.
 This project helps airlines and airports identify delay patterns, optimize routes, 
