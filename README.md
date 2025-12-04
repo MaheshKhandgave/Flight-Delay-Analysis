@@ -58,7 +58,7 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 ---
 
 ### **SQL Queries**
-![SQL Preview](sql/sql.png)
+![SQL Preview](sql/sql.png.png)
 
 ---
 
