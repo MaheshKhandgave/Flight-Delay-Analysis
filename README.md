@@ -29,7 +29,7 @@ The dashboard is designed for quick decision-making by operations teams.
 *Tools used:* Excel (Pivot, Power Query), Power BI, Tableau, SQL Google Drive (for large files)
 
 ## 📊 Dashboard Preview
-![Excel Dashboard](excel/dashboard_image.png)
+![Excel Dashboard](excel/dashboard_image.png.png)
 
 
 ## 🚀 Key Features / Highlights
