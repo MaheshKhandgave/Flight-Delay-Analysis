@@ -23,19 +23,23 @@
 # 🛫 Flight Delay Analysis – End-to-End Data Analytics Project
 
 ## 📌 Project Description
-This is an end-to-end airline Flight Delay Analysis project using Excel, SQL, Power BI, and Tableau. 
-The project includes data cleaning, KPI creation, dashboard building, and insights extraction to improve flight operations.
+This is an end-to-end Flight Delay Analysis Project using Excel, SQL, Power BI, and Tableau.
+The project includes:
+Data cleaning
+Creating KPIs
+Building dashboards
+Extracting actionable insights
+Improving airline operational performance
 
 ---
 
 # 🔎 Project Overview
-**Objective:** Analyze flight delays (distribution, airline-wise trends, cancellations, delay reasons) using multiple BI tools.
+**Objective:** Analyze flight delays, cancellations, airline trends, and route-wise performance.
 
 This project helps airlines identify delay patterns, optimize routes, and improve on-time performance through data-driven insights.
 
-**Dataset:** Public flight dataset with columns:  
-`FlightID`, `Airline`, `Date`, `Origin`, `Destination`, `DelayMinutes`, `Cancelled`, `Distance`, `ArrivalDelay`, `DepartureDelay`.
-
+**Dataset:**   
+`FlightID`, `Airline`, `Date`, `Origin`, `Destination`, `DelayMinutes`, `Cancelled`, `Distance`, `ArrivalDelay`, `DepartureDelay`
 **Tools Used:** Excel, Power BI, SQL, Tableau
 
 ---
@@ -63,24 +67,46 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 ---
 
 # 🚀 Key Features / Highlights
-- Interactive Excel dashboard with slicers for Airlines, Routes, Date ranges  
-- Power BI dashboard showing airline performance, delays by weekday, top delayed routes  
-- Tableau dashboard with geographic mapping and trend analysis  
-- Reusable SQL queries to extract KPIs like total flights, avg delay, cancellations, route-wise performance  
-- Full documentation + PPT included  
-
+-Interactive Excel dashboard with slicers
+-Power BI dashboard with KPIs: weekday delays, cancellations, airline performance
+-Tableau dashboard with geographic maps + trend visuals
+-SQL reusable queries for total flights, avg delay, route performance
+-Complete project documentation + PPT included
 ---
 
 # 📁 File Structure
-Flight-Delay-Analysis/ │ ├── excel/ │   ├── flight_delay_excel.xlsx │   └── dashboard_image.png │ ├── powerbi/ │   ├── flight_delay.pbix │   └── powerbi_dashboard.png │ ├── tableau/ │   ├── flight_delay.twbx │   └── tableau_dashboard.png │ ├── sql/ │   └── queries.sql │ ├── documentation/ │   ├── project_report.pdf │   └── project_presentation.pptx │ └── README.md
+Flight-Delay-Analysis/
+│
+├── excel/
+│   ├── flight_delay_excel.xlsx
+│   └── dashboard_image.png
+│
+├── powerbi/
+│   ├── flight_delay.pbix
+│   └── powerbi_dashboard.png
+│
+├── tableau/
+│   ├── flight_delay.twbx
+│   └── tableau_dashboard.png
+│
+├── sql/
+│   └── queries.sql
+│
+├── documentation/
+│   ├── project_report.pdf
+│   └── project_presentation.pptx
+│
+└── README.md
 
 ---
 
 # 🧠 Key Insights 
-- Average delay: **22 minutes**  
-- Worst-performing airline: **Airline EV**  
-- Peak delay day: **Saturday**  
-- Route distance has a moderate impact on delay patterns  
+-Average Delay: 22 minutes
+-Worst Performing Airline: EV
+-Peak Delay Day: Saturday
+-Distance vs Delay Relationship: Moderate correlation
+-JetBlue cancellations: High on specific routes
+-Weekend delays > Weekday delays
 
 ---
 
@@ -101,6 +127,5 @@ Flight-Delay-Analysis/ │ ├── excel/ │   ├── flight_delay_excel.x
 ---
 
 # ⚠️ Data Privacy & Disclaimer
-This repository contains analysis created using sample datasets.  
-No sensitive or personal user data is used.  
-Raw data can be provided upon request.
+This project is created using a training dataset provided by ExcelR during classroom sessions.
+The dataset is used only for educational and practice purposes.
