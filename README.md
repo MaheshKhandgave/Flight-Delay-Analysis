@@ -40,6 +40,7 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 
 **Dataset:**   
 `FlightID`, `Airline`, `Date`, `Origin`, `Destination`, `DelayMinutes`, `Cancelled`, `Distance`, `ArrivalDelay`, `DepartureDelay`
+
 **Tools Used:** Excel, Power BI, SQL, Tableau
 
 ---
@@ -68,10 +69,15 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 
 # 🚀 Key Features / Highlights
 -Interactive Excel dashboard with slicers
+
 -Power BI dashboard with KPIs: weekday delays, cancellations, airline performance
+
 -Tableau dashboard with geographic maps + trend visuals
+
 -SQL reusable queries for total flights, avg delay, route performance
+
 -Complete project documentation + PPT included
+
 ---
 
 # 📁 File Structure
@@ -102,10 +108,15 @@ Flight-Delay-Analysis/
 
 # 🧠 Key Insights 
 -Average Delay: 22 minutes
+
 -Worst Performing Airline: EV
+
 -Peak Delay Day: Saturday
+
 -Distance vs Delay Relationship: Moderate correlation
+
 -JetBlue cancellations: High on specific routes
+
 -Weekend delays > Weekday delays
 
 ---
