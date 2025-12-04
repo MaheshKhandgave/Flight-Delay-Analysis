@@ -38,9 +38,7 @@ The dashboard is designed for quick decision-making by operations teams.
 ![tableau dashboard](tableau/tableau_Dashboard.png.png)
 
 ## sql preview
-![sql query]()
-
-
+![sql query](sql/sql.png.png)
 
 ## 🚀 Key Features / Highlights
 - Interactive Excel dashboard with slicers for Airline, Date range and Origin/Destination.  
