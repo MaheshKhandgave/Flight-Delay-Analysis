@@ -6,5 +6,4 @@ This folder contains:
 
 Open the `Dashboard` sheet to explore KPIs and slicers.
 
-## 📊 Dashboard Preview(excel)
-![Excel Dashboard](excel/dashboard_image.png.png)
+
