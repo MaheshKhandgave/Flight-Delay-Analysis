@@ -34,6 +34,9 @@ The dashboard is designed for quick decision-making by operations teams.
 ### PowerBI Preview
 ![powerbi dashboard](powerbi./powerbi_dashboard.png.png)
 
+## Tableau preview
+![tableau dashboard](tableau/tableau_Dashboard.png.png)
+
 
 
 ## 🚀 Key Features / Highlights
