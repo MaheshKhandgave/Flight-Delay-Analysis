@@ -18,92 +18,89 @@
 ### 🔹 Project PPT  
 [Click Here to Download PPT](https://docs.google.com/presentation/d/1XBHAQkOzVmoDkKTIt629XzOvn3gWPuW1/edit?usp=drive_link&ouid=118077615037092360815&rtpof=true&sd=true)
 
-# Flight Delay Analysis – End-to-End Data Analytics Project
+---
+
+# 🛫 Flight Delay Analysis – End-to-End Data Analytics Project
 
 ## 📌 Project Description
 This is an end-to-end airline Flight Delay Analysis project using Excel, SQL, Power BI, and Tableau. 
 The project includes data cleaning, KPI creation, dashboard building, and insights extraction to improve flight operations.
 
+---
+
 # 🔎 Project Overview
-*Objective:* Analyze flight delays (distribution, airline-wise, weekday trends, cancellation & delay reasons) and provide interactive dashboards and reproducible SQL queries for KPI extraction.
-This project helps airlines and airports identify delay patterns, optimize routes, 
-and improve on-time performance using data-driven insights. 
-The dashboard is designed for quick decision-making by operations teams.
+**Objective:** Analyze flight delays (distribution, airline-wise trends, cancellations, delay reasons) using multiple BI tools.
 
-*Dataset:* (briefly mention dataset source, e.g. “Public flight dataset—columns: FlightID, Airline, Date, Origin, Destination, DelayMinutes, Cancelled, Distance, ArrivalDelay, DepartureDelay”)
+This project helps airlines identify delay patterns, optimize routes, and improve on-time performance through data-driven insights.
 
-*Tools used:* Excel (Pivot, Power Query), Power BI, Tableau, SQL Google Drive (for large files)
+**Dataset:** Public flight dataset with columns:  
+`FlightID`, `Airline`, `Date`, `Origin`, `Destination`, `DelayMinutes`, `Cancelled`, `Distance`, `ArrivalDelay`, `DepartureDelay`.
 
-## 📊 Dashboard Preview(excel)
-![Excel Dashboard](excel/dashboard_image.png.png)
+**Tools Used:** Excel, Power BI, SQL, Tableau
 
-### PowerBI Preview
-![powerbi dashboard](powerbi./powerbi_dashboard.png.png)
+---
 
-## Tableau preview
-![tableau dashboard](tableau/tableau_Dashboard.png.png)
+# 📊 Dashboard Previews
 
-## sql preview
-![sql query](sql/sql.png.png)
+### **Excel Dashboard**
+![Excel Dashboard](excel/dashboard_image.png)
 
-## 🚀 Key Features / Highlights
-- Interactive Excel dashboard with slicers for Airline, Date range and Origin/Destination.  
-- Power BI dashboard with visual breakdowns: airline performance, delays by weekday, top delayed routes.  
-- Tableau workbook for geographic and time-series visualization.  
-- Reusable SQL queries to compute KPIs: total flights, avg delay, % delays > 30 mins, cancellations.  
-- Full project report documenting methodology, assumptions and business recommendations
-  
- ## 📁 File Structure
-  Flight-Delay-Analysis/
-│
-├── excel/
-│   ├── flight_delay_excel.xlsx
-│   └── excel_dashboard.png
-│
-├── powerbi/
-│   ├── flight_delay.pbix
-│   └── powerbi_dashboard.png
-│
-├── tableau/
-│   ├── flight_delay.twbx
-│   └── tableau_dashboard.png
-│
-├── sql/
-│   └── queries.sql
-│
-├── documentation/
-│   ├── project_report.pdf
-│   └── project_presentation.pptx
-│
-└── README.md
-   
-## 🧠 Key Insights 
-- Average delay: 22 minutes.  
-- Worst-performing airline:Airline X (highest avg delay).  
-- Peak delay day:Saturday (higher delays vs weekdays).
+---
 
-## 🛠️ Tools & Technologies Used
-- Microsoft Excel (Pivot Tables, Power Query, Dashboard)
-- Power BI (DAX, Data Modeling)
-- Tableau (Geographical & Trend Visuals)
-- SQL (Data Cleaning, KPI Queries)
--  Google Drive
+### **Power BI Dashboard**
+![Power BI Dashboard](powerbi/powerbi_dashboard.png)
 
-- ## ▶️ How to Use This Project
-1. Download the required project files from the links above.
-2. Open the Excel file → go to the **Dashboard** sheet.
-3. Use slicers to filter by Airline, Date, Route, Cancellation status.
-4. For Power BI → open `.pbix` file and refresh the model if needed.
-5. For SQL → open `queries.sql` and run KPIs one by one.
-6. For Tableau → open `.twbx` file to explore maps and trends.
+---
 
-  ## 📞 Contact / Author
-- Name: Mahesh Khandgave  
-- LinkedIn:-[Click Here](https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)
-- Email: khandgavemahesh@gmail.com
+### **Tableau Dashboard**
+![Tableau Dashboard](tableau/tableau_dashboard.png)
 
-  ## ⚠️ Data privacy & disclaimer
-- This repository contains analysis derived from the provided dataset. No sensitive personal information is shared. If you need original raw data access, request permission.
-  
+---
 
-  
+### **SQL Queries**
+![SQL Preview](sql/sql.png)
+
+---
+
+# 🚀 Key Features / Highlights
+- Interactive Excel dashboard with slicers for Airlines, Routes, Date ranges  
+- Power BI dashboard showing airline performance, delays by weekday, top delayed routes  
+- Tableau dashboard with geographic mapping and trend analysis  
+- Reusable SQL queries to extract KPIs like total flights, avg delay, cancellations, route-wise performance  
+- Full documentation + PPT included  
+
+---
+
+# 📁 File Structure
+Flight-Delay-Analysis/ │ ├── excel/ │   ├── flight_delay_excel.xlsx │   └── dashboard_image.png │ ├── powerbi/ │   ├── flight_delay.pbix │   └── powerbi_dashboard.png │ ├── tableau/ │   ├── flight_delay.twbx │   └── tableau_dashboard.png │ ├── sql/ │   └── queries.sql │ ├── documentation/ │   ├── project_report.pdf │   └── project_presentation.pptx │ └── README.md
+
+---
+
+# 🧠 Key Insights 
+- Average delay: **22 minutes**  
+- Worst-performing airline: **Airline X**  
+- Peak delay day: **Saturday**  
+- Route distance has a moderate impact on delay patterns  
+
+---
+
+# ▶️ How to Use This Project
+1. Download project files using the links at the top.  
+2. Excel → Open the **Dashboard** sheet.  
+3. Power BI → Open `.pbix` file and refresh.  
+4. SQL → Run `queries.sql` for KPIs.  
+5. Tableau → Open `.twbx` for maps & trends.
+
+---
+
+# 📞 Contact / Author
+**Name:** Mahesh Khandgave  
+**LinkedIn:** [Click Here](https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)  
+**Email:** khandgavemahesh@gmail.com
+
+---
+
+# ⚠️ Data Privacy & Disclaimer
+This repository contains analysis created using sample datasets.  
+No sensitive or personal user data is used.  
+Raw data can be provided upon request.
