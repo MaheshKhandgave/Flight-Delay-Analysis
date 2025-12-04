@@ -68,15 +68,15 @@ This project helps airlines identify delay patterns, optimize routes, and improv
 ---
 
 # 🚀 Key Features / Highlights
--Interactive Excel dashboard with slicers
+ -Interactive Excel dashboard with slicers
 
--Power BI dashboard with KPIs: weekday delays, cancellations, airline performance
+ -Power BI dashboard with KPIs: weekday delays, cancellations, airline performance
 
--Tableau dashboard with geographic maps + trend visuals
+ -Tableau dashboard with geographic maps + trend visuals
 
--SQL reusable queries for total flights, avg delay, route performance
+ -SQL reusable queries for total flights, avg delay, route performance
 
--Complete project documentation + PPT included
+ -Complete project documentation + PPT included
 
 ---
 
