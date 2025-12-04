@@ -10,4 +10,4 @@ Open in Power BI Desktop and click Refresh if needed.
 [Click Here to Download Power BI File](https://drive.google.com/file/d/15A9F0aRNxjB9T59hDq-2OCt9bjgngOxG/view?usp=drive_link)
 
 ## screenshot
-![power bi dashboard](powerbi./powerbi_dashboard.png.png)
+![power bi dashboard](powerbi_dashboard.png.png)
